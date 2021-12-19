@@ -50,3 +50,10 @@ img {
 	border-style: solid;
 	border-width: 1px;
 }
+
+button.profile-btns {
+	background-color: yellow;
+	border-radius: 4px;
+	font-size: 16px;
+	padding: 5px;
+}
